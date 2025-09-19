@@ -35,5 +35,4 @@ substitutions:
     _DOCKER_REGISTRY  : astahov-docker-repo
     _DOCKER_IMAGENAME : myapp-staging
 options:
-  logging: NONE
-
+  logging: CLOUD_LOGGING_ONLY
