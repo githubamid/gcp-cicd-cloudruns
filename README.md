@@ -22,6 +22,6 @@ In order to CloudBuild located in project MANAGEMENT to <b>PUSH</b> docker image
 1. In project MANAGEMENT get email of account `xxxxxxxx@cloudbuild.gserviceaccount.com`
 2. In project MANAGEMENT in permissions of Artifact Registry Repository, add princial from Step-1 with the following role:
    - Artifact Registry Writer - `roles/artifactregistry.writer`
-3. v1.1.6
+3. v1.1.7
 
 ## Copyleft (c) by Denis Astahov
